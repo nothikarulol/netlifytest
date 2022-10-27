@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="AnimeDuo!" />
         <p className="description">
-          More anme and games coming soon! <code></code>
+          More anime and games coming soon! <code></code>
         </p>
       </main>
 
