@@ -5,9 +5,6 @@
 
         <title>Adams game shack</title>
 
-        <!-- Load external CSS styles -->
-        <link rel="stylesheet" href="styles.css">
-
     </head>
 
     <body>
