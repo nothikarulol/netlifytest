@@ -1,24 +1,27 @@
-import Head from 'next/head'
-import Header from '@components/Header'
-import Footer from '@components/Footer'
+<!doctype html>
 
-export default function Home() {
-  return (
-    <div className="container">
-      <Head>
-        <title>AnimeDuo!</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
+<html>
+    <head>
+        <meta charset="utf-8">
 
-      <main>
-        <Header title="AnimeDuo!" />
-        <p className="description">
-          More anime and games coming soon! <code></code>
-        </p>
-      </main>
+        <title>Adams game shack</title>
 
-      <Footer />
-    </div>
-  )
-}
+        <!-- Load external CSS styles -->
+        <link rel="stylesheet" href="styles.css">
+
+    </head>
+
+    <body>
+
+        <h1>Home</h1>
+        <h3>Welcome to my game website! This is the home tab so click on the game tab to get started!</h3>
+        <h4>Version 1.0: New website adding games soon</h4>
+
+        
+        
+        
+    </body>
+    
+
+</html>
 
